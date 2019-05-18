@@ -4,8 +4,8 @@
 
 [![Latest Version](https://badgen.now.sh/npm/v/@httpack/got)](https://www.npmjs.com/package/@httpack/got)
 [![Node Engine](https://badgen.now.sh/npm/node/@httpack/got)](https://www.npmjs.com/package/@httpack/got)
-[![Build Status](https://badgen.now.sh/circleci/github/@httpack/got)](https://circleci.com/gh/@httpack/got)
-[![Codecov](https://badgen.now.sh/codecov/c/github/@httpack/got)](https://codecov.io/gh/@httpack/got)
+[![Build Status](https://badgen.now.sh/circleci/github/httpack/got)](https://circleci.com/gh/httpack/got)
+[![Codecov](https://badgen.now.sh/codecov/c/github/httpack/got)](https://codecov.io/gh/httpack/got)
 [![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
 
 ## Installation
