@@ -21,11 +21,7 @@ export class Request implements IRequest {
 	}
 
 	public withUrl(url: string | URL): IRequest {
-		if (typeof url === "string") {
-			url = new URL(url);
-		}
-
-		this.url = url;
+		this.url = typeof url === "string" ? new URL(url) : url;
 
 		return this;
 	}

@@ -1,3 +1,4 @@
+// tslint:disable: no-unsafe-any
 import { IClient, IRequest, IResponse, RequestOptions } from "@httpack/httpack";
 import got from "got";
 import { Request } from "./request";
