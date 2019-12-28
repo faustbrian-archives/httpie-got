@@ -66,7 +66,7 @@
 	"dependencies": {
 		"@httpack/httpack": "^0.1.1",
 		"@httpack/test-suite": "^0.1.0",
-		"got": "^9.6.0"
+		"got": "^10.0.0"
 	},
 	"devDependencies": {
 		"@typeskrift/tslint": "0.1.5",
