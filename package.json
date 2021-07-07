@@ -32,7 +32,7 @@
 	},
 	"devDependencies": {
 		"@konceiver/tease": "^2.0.1",
-		"@types/got": "^9.6.11"
+		"@types/got": "^9.6.12"
 	},
 	"types": "dist/index"
 }
